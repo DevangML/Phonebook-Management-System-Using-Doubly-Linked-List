@@ -1,4 +1,4 @@
-# ADS-CP
+# Topic
 
 This is a simple but elegant implementation of advanced data structure, doubly linked list.
 
